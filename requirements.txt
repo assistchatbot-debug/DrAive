@@ -1,0 +1,18 @@
+# Core dependencies
+python-dotenv>=1.0.0
+aiogram>=3.4.0
+aiohttp>=3.10.0
+
+# Database
+asyncpg>=0.29.0
+
+# Excel generation
+openpyxl>=3.1.0
+
+# Redis (session caching)
+redis>=5.0.0
+hiredis>=3.3.0
+
+# Utilities
+python-dateutil>=2.8.0
+pytz>=2024.1
